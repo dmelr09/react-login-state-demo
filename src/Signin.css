@@ -1,0 +1,37 @@
+.signin-form {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .signin-form h2 {
+    text-align: center;
+  }
+  
+  .signin-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .signin-form label {
+    margin-bottom: 10px;
+  }
+  
+  .signin-form input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+  }
+  
+  .signin-form button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .signin-form button:hover {
+    background-color: #555;
+  }
+  
